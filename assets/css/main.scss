@@ -39,5 +39,7 @@
 ;
 .author__avatar img {
   border-radius: 0 !important;
-  height: auto;
+  width: 200px !important;
+  max-width: 200px !important;
+  height: auto !important;
 }
